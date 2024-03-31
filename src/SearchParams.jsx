@@ -73,8 +73,5 @@ const SearchParams = () => {
   )
 }
 
-<<<<<<< HEAD
 export default SearchParams
-=======
-export default SearchParams;
->>>>>>> b45b9716642ff7eba2d1b70534defd6c419c1eee
+
